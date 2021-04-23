@@ -1,0 +1,2 @@
+基准路径：https://www.escook.cn
+数据接口：/api/goods

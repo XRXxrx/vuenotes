@@ -1,0 +1,25 @@
+:root {
+    font-size: 14px;
+}
+
+body {
+    /* padding: 10px; */
+}
+
+
+/* .router-link-active {
+    background-color: #f00;
+    color: #fff;
+    font-weight: bold;
+} */
+
+.my-router-active {
+    background-color: #f00;
+    color: #fff;
+    font-weight: bold;
+}
+
+.my-link-active {
+    background-color: skyblue;
+    color: #fff !important;
+}
